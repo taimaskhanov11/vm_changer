@@ -26,8 +26,37 @@ logger.add(
 
 for _ in range(ITER_COUNT):
     logger.warning("\n\nНовая итерация")
+
     # scsi0:0.fileName
     field_name = "scsi0:0.fileName ="
+    field = find_field(field_name)
+    new_field = f'{field_name} "{CREATED_VM_NAME}.vmdk"'
+    DownloadedVm.replace_vm(field, new_field)
+    logger.info(f"\n{field} ↓ \n{new_field}")
+
+    # displayName
+    field_name = "displayName ="
+    field = find_field(field_name)
+    new_field = f'{field_name} "{CREATED_VM_NAME}"'
+    DownloadedVm.replace_vm(field, new_field)
+    logger.info(f"\n{field} ↓ \n{new_field}")
+
+    # nvram
+    field_name = "nvram ="
+    field = find_field(field_name)
+    new_field = f'{field_name} "{CREATED_VM_NAME}.nvram"'
+    DownloadedVm.replace_vm(field, new_field)
+    logger.info(f"\n{field} ↓ \n{new_field}")
+
+    # sata0:1.fileName
+    field_name = "sata0:1.fileName ="
+    field = find_field(field_name)
+    new_field = f'{field_name} "{CREATED_VM_NAME}.vmdk"'
+    DownloadedVm.replace_vm(field, new_field)
+    logger.info(f"\n{field} ↓ \n{new_field}")
+
+    # nvme0:0.fileName
+    field_name = "nvme0:0.fileName ="
     field = find_field(field_name)
     new_field = f'{field_name} "{CREATED_VM_NAME}.vmdk"'
     DownloadedVm.replace_vm(field, new_field)
@@ -61,6 +90,13 @@ for _ in range(ITER_COUNT):
     field_name = "uuid.bios ="
     field = find_field(field_name)
     uuid_bios = binascii.hexlify(os.urandom(8), " ").decode() + "-" + binascii.hexlify(os.urandom(8), " ").decode()
+    new_field = f'{field_name} "{uuid_bios}"'
+    DownloadedVm.replace_vm(field, new_field)
+    logger.info(f"\n{field} ↓ \n{new_field}")
+
+    # uuid_bios
+    field_name = "uuid.location ="
+    field = find_field(field_name)
     new_field = f'{field_name} "{uuid_bios}"'
     DownloadedVm.replace_vm(field, new_field)
     logger.info(f"\n{field} ↓ \n{new_field}")
