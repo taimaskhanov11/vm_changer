@@ -1,0 +1,670 @@
+Intel(R) Celeron M 215 @ 1.333GHz
+Intel(R) Celeron 220 @ 1.2GHz
+Intel(R) Celeron 300A @ 0.3GHz
+Intel(R) Celeron D 310 @ 2.133GHz
+Intel(R) Celeron D 315 @ 2.267GHz
+Intel(R) Celeron D 320 @ 2.4GHz
+Intel(R) Celeron D 320J @ 2.4GHz
+Intel(R) Celeron D 325 @ 2.533GHz
+Intel(R) Celeron D 325J @ 2.533GHz
+Intel(R) Celeron D 326 @ 2.533GHz
+Intel(R) Celeron D 330 @ 2.667GHz
+Intel(R) Celeron D 330J @ 2.667GHz
+Intel(R) Celeron D 331 @ 2.667GHz
+Intel(R) Celeron D 335 @ 2.8GHz
+Intel(R) Celeron D 335J @ 2.8GHz
+Intel(R) Celeron D 336 @ 2.8GHz
+Intel(R) Celeron D 340 @ 2.933GHz
+Intel(R) Celeron D 340J @ 2.933GHz
+Intel(R) Celeron D 341 @ 2.933GHz
+Intel(R) Celeron D 345 @ 3.067GHz
+Intel(R) Celeron D 345J @ 3.067GHz
+Intel(R) Celeron D 346 @ 3.067GHz
+Intel(R) Celeron D 347 @ 3.067GHz
+Intel(R) Pentium Dual-Core 350 @ 1.2GHz
+Intel(R) Celeron D 350 @ 3.2GHz
+Intel(R) Celeron D 350J @ 3.2GHz
+Intel(R) Celeron D 351 @ 3.2GHz
+Intel(R) Celeron D 352 @ 3.2GHz
+Intel(R) Celeron D 355 @ 3.333GHz
+Intel(R) Celeron D 356 @ 3.333GHz
+Intel(R) Celeron D 360 @ 3.467GHz
+Intel(R) Celeron D 365 @ 3.6GHz
+Intel(R) Celeron 420 @ 1.6GHz
+Intel(R) Celeron 430 @ 1.8GHz
+Intel(R) Celeron 440 @ 2GHz
+Intel(R) Celeron 445 @ 1.867GHz
+Intel(R) Celeron 450 @ 2.2GHz
+Intel(R) Celeron 460 @ 2.4GHz
+Intel(R) Pentium III 500E @ 0.5GHz
+Intel(R) Pentium 4 505 @ 2.667GHz
+Intel(R) Pentium 4 505J @ 2.667GHz
+Intel(R) Pentium 4 506 @ 2.667GHz
+Intel(R) Pentium 4 510 @ 2.8GHz
+Intel(R) Pentium 4 510J @ 2.8GHz
+Intel(R) Pentium 4 511 @ 2.8GHz
+Intel(R) Pentium 4 515 @ 2.933GHz
+Intel(R) Pentium 4 515J @ 2.933GHz
+Intel(R) Pentium 4 516 @ 2.933GHz
+Intel(R) Pentium 4 517 @ 2.933GHz
+Intel(R) Pentium 4 519 @ 3.067GHz
+Intel(R) Pentium 4 519J @ 3.067GHz
+Intel(R) Pentium 4 519K @ 3.067GHz
+Intel(R) Pentium 4 520 @ 2.8GHz
+Intel(R) Pentium 4 520J @ 2.8GHz
+Intel(R) Pentium 4 521 @ 2.8GHz
+Intel(R) Pentium 4 524 @ 3.067GHz
+Intel(R) Pentium 4 530 @ 3GHz
+Intel(R) Pentium 4 530J @ 3GHz
+Intel(R) Pentium 4 531 @ 3GHz
+Intel(R) Celeron 533A @ 0.533GHz
+Intel(R) Pentium III 533B @ 0.533GHz
+Intel(R) Pentium III 533EB @ 0.533GHz
+Intel(R) Pentium 4 540 @ 3.2GHz
+Intel(R) Pentium 4 540J @ 3.2GHz
+Intel(R) Pentium 4 541 @ 3.2GHz
+Intel(R) Pentium 4 550 @ 3.4GHz
+Intel(R) Pentium III 550E @ 0.55GHz
+Intel(R) Pentium 4 550J @ 3.4GHz
+Intel(R) Pentium 4 551 @ 3.4GHz
+Intel(R) Pentium 4 560 @ 3.6GHz
+Intel(R) Pentium 4 560J @ 3.6GHz
+Intel(R) Pentium 4 561 @ 3.6GHz
+Intel(R) Pentium 4 570 @ 3.8GHz
+Intel(R) Pentium 4 570J @ 3.8GHz
+Intel(R) Pentium 4 571 @ 3.8GHz
+Intel(R) Pentium III 600B @ 0.6GHz
+Intel(R) Pentium III 600E @ 0.6GHz
+Intel(R) Pentium III 600EB @ 0.6GHz
+Intel(R) Pentium 4 620 @ 2.8GHz
+Intel(R) Pentium 4 630 @ 3GHz
+Intel(R) Pentium 4 631 @ 3GHz
+Intel(R) Pentium 4 640 @ 3.2GHz
+Intel(R) Pentium 4 641 @ 3.2GHz
+Intel(R) Pentium 4 650 @ 3.4GHz
+Intel(R) Pentium 4 651 @ 3.4GHz
+Intel(R) Pentium 4 660 @ 3.6GHz
+Intel(R) Pentium 4 661 @ 3.6GHz
+Intel(R) Pentium 4 662 @ 3.6GHz
+Intel(R) Pentium 4 670 @ 3.8GHz
+Intel(R) Pentium 4 672 @ 3.8GHz
+Intel(R) Pentium III 800EB @ 0.8GHz
+Intel(R) Pentium III 800MHz-S @ 0.8GHz
+Intel(R) Pentium D 805 @ 2.667GHz
+Intel(R) Pentium D 820 @ 2.8GHz
+Intel(R) Pentium D 830 @ 3GHz
+Intel(R) Pentium Extreme Edition 840 @ 3.2GHz
+Intel(R) Pentium D 840 @ 3.2GHz
+Intel(R) Pentium D 903 @ 2.8GHz
+Intel(R) Pentium D 913 @ 2.933GHz
+Intel(R) Pentium D 915 @ 2.8GHz
+Intel(R) Pentium D 920 @ 2.8GHz
+Intel(R) Pentium D 923 @ 3.067GHz
+Intel(R) Pentium D 925 @ 3GHz
+Intel(R) Pentium D 930 @ 3GHz
+Intel(R) Pentium D 933 @ 3.2GHz
+Intel(R) Pentium III 933MHz-S @ 0.933GHz
+Intel(R) Pentium D 935 @ 3.2GHz
+Intel(R) Pentium D 940 @ 3.2GHz
+Intel(R) Pentium D 945 @ 3.4GHz
+Intel(R) Pentium D 950 @ 3.4GHz
+Intel(R) Pentium Extreme Edition 955 @ 3.467GHz
+Intel(R) Pentium D 960 @ 3.6GHz
+Intel(R) Pentium Extreme Edition 965 @ 3.733GHz
+Intel(R) Pentium D 970 @ 3.8GHz
+Intel(R) Celeron Dual-Core E1200 @ 1.6GHz
+Intel(R) Celeron Dual-Core E1400 @ 2GHz
+Intel(R) Celeron Dual-Core E1500 @ 2.2GHz
+Intel(R) Celeron Dual-Core E1600 @ 2.4GHz
+Intel(R) Pentium Dual-Core E2140 @ 1.6GHz
+Intel(R) Pentium Dual-Core E2160 @ 1.8GHz
+Intel(R) Pentium Dual-Core E2180 @ 2GHz
+Intel(R) Pentium Dual-Core E2200 @ 2.2GHz
+Intel(R) Pentium Dual-Core E2210 @ 2.2GHz
+Intel(R) Pentium Dual-Core E2220 @ 2.4GHz
+Intel(R) Celeron Dual-Core E3200 @ 2.4GHz
+Intel(R) Pentium Dual-Core E3200 @ 2.4GHz
+Intel(R) Celeron Dual-Core E3300 @ 2.5GHz
+Intel(R) Celeron Dual-Core E3400 @ 2.6GHz
+Intel(R) Celeron Dual-Core E3500 @ 2.7GHz
+Intel(R) Celeron Dual-Core E3900 @ 3.4GHz
+Intel(R) Core 2 Duo E4200 @ 1.6GHz
+Intel(R) Core 2 Duo E4300 @ 1.8GHz
+Intel(R) Core 2 Duo E4400 @ 2GHz
+Intel(R) Core 2 Duo E4500 @ 2.2GHz
+Intel(R) Core 2 Duo E4600 @ 2.4GHz
+Intel(R) Core 2 Duo E4700 @ 2.6GHz
+Intel(R) Pentium Dual-Core E5200 @ 2.5GHz
+Intel(R) Pentium Dual-Core E5300 @ 2.6GHz
+Intel(R) Pentium Dual-Core E5400 @ 2.7GHz
+Intel(R) Pentium Dual-Core E5500 @ 2.8GHz
+Intel(R) Pentium Dual-Core E5700 @ 3GHz
+Intel(R) Pentium Dual-Core E5800 @ 3.2GHz
+Intel(R) Core 2 Duo E6300 @ 1.867GHz
+Intel(R) Core 2 Duo E6305 @ 1.867GHz
+Intel(R) Pentium Dual-Core E6300 @ 2.8GHz
+Intel(R) Core 2 Duo E6320 @ 1.867GHz
+Intel(R) Core 2 Duo E6400 @ 2.133GHz
+Intel(R) Core 2 Duo E6405 @ 2.133GHz
+Intel(R) Core 2 Duo E6420 @ 2.133GHz
+Intel(R) Pentium Dual-Core E6500 @ 2.933GHz
+Intel(R) Pentium Dual-Core E6500K @ 2.933GHz
+Intel(R) Core 2 Duo E6540 @ 2.333GHz
+Intel(R) Core 2 Duo E6550 @ 2.333GHz
+Intel(R) Core 2 Duo E6600 @ 2.4GHz
+Intel(R) Pentium Dual-Core E6600 @ 3.067GHz
+Intel(R) Core 2 Duo E6700 @ 2.667GHz
+Intel(R) Pentium Dual-Core E6700 @ 3.2GHz
+Intel(R) Core 2 Duo E6750 @ 2.667GHz
+Intel(R) Pentium Dual-Core E6800 @ 3.333GHz
+Intel(R) Core 2 Duo E6850 @ 3GHz
+Intel(R) Pentium Dual-Core E6900 @ 3.467GHz
+Intel(R) Core 2 Duo E7200 @ 2.533GHz
+Intel(R) Core 2 Duo E7300 @ 2.667GHz
+Intel(R) Core 2 Duo E7400 @ 2.8GHz
+Intel(R) Core 2 Duo E7500 @ 2.933GHz
+Intel(R) Core 2 Duo E7600 @ 3.067GHz
+Intel(R) Core 2 Duo E8100 @ 2.333GHz
+Intel(R) Core 2 Duo E8190 @ 2.667GHz
+Intel(R) Core 2 Duo E8200 @ 2.667GHz
+Intel(R) Core 2 Duo E8290 @ 2.833GHz
+Intel(R) Core 2 Duo E8300 @ 2.833GHz
+Intel(R) Core 2 Duo E8400 @ 3GHz
+Intel(R) Core 2 Duo E8500 @ 3.167GHz
+Intel(R) Core 2 Duo E8600 @ 3.333GHz
+Intel(R) Celeron Dual-Core G440 @ 1.6GHz
+Intel(R) Celeron Dual-Core G460 @ 1.8GHz
+Intel(R) Celeron Dual-Core G465 @ 1.9GHz
+Intel(R) Celeron Dual-Core G470 @ 2GHz
+Intel(R) Celeron Dual-Core G530 @ 2.4GHz
+Intel(R) Celeron Dual-Core G530T @ 2GHz
+Intel(R) Celeron Dual-Core G540 @ 2.5GHz
+Intel(R) Celeron Dual-Core G540T @ 2.1GHz
+Intel(R) Celeron Dual-Core G550 @ 2.6GHz
+Intel(R) Celeron Dual-Core G550T @ 2.2GHz
+Intel(R) Celeron Dual-Core G555 @ 2.7GHz
+Intel(R) Pentium Dual-Core G620 @ 2.6GHz
+Intel(R) Pentium Dual-Core G620T @ 2.2GHz
+Intel(R) Pentium Dual-Core G622 @ 2.6GHz
+Intel(R) Pentium Dual-Core G630 @ 2.7GHz
+Intel(R) Pentium Dual-Core G630T @ 2.3GHz
+Intel(R) Pentium Dual-Core G632 @ 2.7GHz
+Intel(R) Pentium Dual-Core G640 @ 2.8GHz
+Intel(R) Pentium Dual-Core G640T @ 2.4GHz
+Intel(R) Pentium Dual-Core G645 @ 2.9GHz
+Intel(R) Pentium Dual-Core G645T @ 2.5GHz
+Intel(R) Pentium Dual-Core G840 @ 2.8GHz
+Intel(R) Pentium Dual-Core G850 @ 2.9GHz
+Intel(R) Pentium Dual-Core G860 @ 3GHz
+Intel(R) Pentium Dual-Core G860T @ 2.6GHz
+Intel(R) Pentium Dual-Core G870 @ 3.1GHz
+Intel(R) Celeron Dual-Core G1101 @ 2.267GHz
+Intel(R) Celeron Dual-Core G1610 @ 2.6GHz
+Intel(R) Celeron Dual-Core G1610T @ 2.3GHz
+Intel(R) Celeron Dual-Core G1620 @ 2.7GHz
+Intel(R) Celeron Dual-Core G1620T @ 2.4GHz
+Intel(R) Celeron Dual-Core G1630 @ 2.8GHz
+Intel(R) Celeron Dual-Core G1820 @ 2.7GHz
+Intel(R) Celeron Dual-Core G1820T @ 2.4GHz
+Intel(R) Celeron Dual-Core G1820TE @ 2.2GHz
+Intel(R) Celeron Dual-Core G1830 @ 2.8GHz
+Intel(R) Celeron Dual-Core G1840 @ 2.8GHz
+Intel(R) Celeron Dual-Core G1840T @ 2.5GHz
+Intel(R) Celeron Dual-Core G1850 @ 2.9GHz
+Intel(R) Pentium Dual-Core G2010 @ 2.8GHz
+Intel(R) Pentium Dual-Core G2020 @ 2.9GHz
+Intel(R) Pentium Dual-Core G2020T @ 2.5GHz
+Intel(R) Pentium Dual-Core G2030 @ 3GHz
+Intel(R) Pentium Dual-Core G2030T @ 2.6GHz
+Intel(R) Pentium Dual-Core G2100T @ 2.6GHz
+Intel(R) Pentium Dual-Core G2120 @ 3.1GHz
+Intel(R) Pentium Dual-Core G2120T @ 2.7GHz
+Intel(R) Pentium Dual-Core G2130 @ 3.2GHz
+Intel(R) Pentium Dual-Core G2140 @ 3.3GHz
+Intel(R) Pentium Dual-Core G3220 @ 3GHz
+Intel(R) Pentium Dual-Core G3220T @ 2.6GHz
+Intel(R) Pentium Dual-Core G3320TE @ 2.3GHz
+Intel(R) Pentium Dual-Core G3240 @ 3.1GHz
+Intel(R) Pentium Dual-Core G3240T @ 2.7GHz
+Intel(R) Pentium Dual-Core G3250 @ 3.2GHz
+Intel(R) Pentium Dual-Core G3250T @ 2.8GHz
+Intel(R) Pentium Dual-Core G3258 @ 3.2GHz
+Intel(R) Pentium Dual-Core G3260 @ 3.3GHz
+Intel(R) Pentium Dual-Core G3260T @ 2.9GHz
+Intel(R) Pentium Dual-Core G3420 @ 3.2GHz
+Intel(R) Pentium Dual-Core G3420T @ 2.7GHz
+Intel(R) Pentium Dual-Core G3430 @ 3.3GHz
+Intel(R) Pentium Dual-Core G3440 @ 3.3GHz
+Intel(R) Pentium Dual-Core G3440T @ 2.8GHz
+Intel(R) Pentium Dual-Core G3450 @ 3.4GHz
+Intel(R) Pentium Dual-Core G3450T @ 2.9GHz
+Intel(R) Pentium Dual-Core G3460 @ 3.5GHz
+Intel(R) Pentium Dual-Core G3460T @ 3GHz
+Intel(R) Pentium Dual-Core G3470 @ 3.6GHz
+Intel(R) Celeron Dual-Core G3900 @ 2.8GHz
+Intel(R) Celeron Dual-Core G3900T @ 2.6GHz
+Intel(R) Celeron Dual-Core G3920 @ 2.9GHz
+Intel(R) Celeron Dual-Core G3930 @ 2.9GHz
+Intel(R) Celeron Dual-Core G3930T @ 2.7GHz
+Intel(R) Celeron Dual-Core G3950 @ 3GHz
+Intel(R) Pentium Dual-Core G4400 @ 3.3GHz
+Intel(R) Pentium Dual-Core G4400T @ 2.9GHz
+Intel(R) Pentium Dual-Core G4400TE @ 2.4GHz
+Intel(R) Pentium Dual-Core G4500 @ 3.5GHz
+Intel(R) Pentium Dual-Core G4500T @ 3GHz
+Intel(R) Pentium Dual-Core G4520 @ 3.6GHz
+Intel(R) Pentium Dual-Core G4560 @ 3.5GHz
+Intel(R) Pentium Dual-Core G4560T @ 2.9GHz
+Intel(R) Pentium Dual-Core G4600 @ 3.6GHz
+Intel(R) Pentium Dual-Core G4600T @ 3GHz
+Intel(R) Pentium Dual-Core G4620 @ 3.7GHz
+Intel(R) Celeron Dual-Core G4900 @ 3.1GHz
+Intel(R) Celeron Dual-Core G4900T @ 2.9GHz
+Intel(R) Celeron Dual-Core G4920 @ 3.2GHz
+Intel(R) Celeron Dual-Core G4930 @ 3.2GHz
+Intel(R) Celeron Dual-Core G4930T @ 3GHz
+Intel(R) Celeron Dual-Core G4950 @ 3.3GHz
+Intel(R) Pentium Dual-Core G5400 @ 3.7GHz
+Intel(R) Pentium Dual-Core G5400T @ 3.1GHz
+Intel(R) Pentium Dual-Core G5420 @ 3.8GHz
+Intel(R) Pentium Dual-Core G5420T @ 3.2GHz
+Intel(R) Pentium Dual-Core G5500 @ 3.8GHz
+Intel(R) Pentium Dual-Core G5500T @ 3.2GHz
+Intel(R) Pentium Dual-Core G5600 @ 3.9GHz
+Intel(R) Pentium Dual-Core G5600F @ 3.9GHz
+Intel(R) Pentium Dual-Core G5600T @ 3.3GHz
+Intel(R) Pentium Dual-Core G5620 @ 4GHz
+Intel(R) Celeron Dual-Core G5900 @ 3.4GHz
+Intel(R) Celeron Dual-Core G5900T @ 3.2GHz
+Intel(R) Celeron Dual-Core G5905 @ 3.5GHz
+Intel(R) Celeron Dual-Core G5905T @ 3.3GHz
+Intel(R) Celeron Dual-Core G5920 @ 3.5GHz
+Intel(R) Celeron Dual-Core G5925 @ 3.6GHz
+Intel(R) Pentium Dual-Core G6400 @ 4GHz
+Intel(R) Pentium Dual-Core G6400T @ 3.4GHz
+Intel(R) Pentium Dual-Core G6405 @ 4.1GHz
+Intel(R) Pentium Dual-Core G6405T @ 3.5GHz
+Intel(R) Pentium Dual-Core G6500 @ 4.1GHz
+Intel(R) Pentium Dual-Core G6500T @ 3.5GHz
+Intel(R) Pentium Dual-Core G6505 @ 4.2GHz
+Intel(R) Pentium Dual-Core G6505T @ 3.6GHz
+Intel(R) Pentium Dual-Core G6600 @ 4.2GHz
+Intel(R) Pentium Dual-Core G6605 @ 4.3GHz
+Intel(R) Pentium Dual-Core G6950 @ 2.8GHz
+Intel(R) Pentium Dual-Core G6951 @ 2.8GHz
+Intel(R) Pentium Dual-Core G6960 @ 2.933GHz
+Intel(R) Celeron J1750 @ 2.41GHz
+Intel(R) Celeron J1800 @ 2.41GHz
+Intel(R) Celeron J1850 @ 2GHz
+Intel(R) Celeron J1900 @ 2GHz
+Intel(R) Pentium J2850 @ 2.41GHz
+Intel(R) Pentium J2900 @ 2.41GHz
+Intel(R) Celeron J3060 @ 1.6GHz
+Intel(R) Celeron J3160 @ 1.6GHz
+Intel(R) Celeron J3355 @ 2GHz
+Intel(R) Celeron J3455 @ 1.5GHz
+Intel(R) Pentium J3710 @ 1.6GHz
+Intel(R) Celeron J4005 @ 2GHz
+Intel(R) Celeron J4025 @ 2GHz
+Intel(R) Celeron J4105 @ 1.5GHz
+Intel(R) Celeron J4125 @ 2GHz
+Intel(R) Pentium J4205 @ 1.5GHz
+Intel(R) Pentium J5005 @ 1.5GHz
+Intel(R) Pentium J5040 @ 2GHz
+Intel(R) Core 2 Quad Q7100 @ 2.2GHz
+Intel(R) Core 2 Quad Q7600 @ 2.7GHz
+Intel(R) Core 2 Extreme QX9750 @ 3.166GHz
+Intel(R) Core i3 i3-520 @ 2.8GHz
+Intel(R) Core i3 i3-530 @ 2.933GHz
+Intel(R) Core i3 i3-540 @ 3.067GHz
+Intel(R) Core i3 i3-550 @ 3.2GHz
+Intel(R) Core i3 i3-560 @ 3.333GHz
+Intel(R) Core i3 i3-2100 @ 3.1GHz
+Intel(R) Core i3 i3-2100T @ 2.5GHz
+Intel(R) Core i3 i3-2102 @ 3.1GHz
+Intel(R) Core i3 i3-2105 @ 3.1GHz
+Intel(R) Core i3 i3-2120 @ 3.3GHz
+Intel(R) Core i3 i3-2120T @ 2.6GHz
+Intel(R) Core i3 i3-2125 @ 3.3GHz
+Intel(R) Core i3 i3-2130 @ 3.4GHz
+Intel(R) Core i3 i3-3210 @ 3.2GHz
+Intel(R) Core i3 i3-3220 @ 3.3GHz
+Intel(R) Core i3 i3-3220T @ 2.8GHz
+Intel(R) Core i3 i3-3225 @ 3.3GHz
+Intel(R) Core i3 i3-3240 @ 3.4GHz
+Intel(R) Core i3 i3-3240T @ 2.9GHz
+Intel(R) Core i3 i3-3245 @ 3.4GHz
+Intel(R) Core i3 i3-3250 @ 3.5GHz
+Intel(R) Core i3 i3-3250T @ 3GHz
+Intel(R) Core i3 i3-4130 @ 3.4GHz
+Intel(R) Core i3 i3-4130T @ 2.9GHz
+Intel(R) Core i3 i3-4150 @ 3.5GHz
+Intel(R) Core i3 i3-4150T @ 3GHz
+Intel(R) Core i3 i3-4160 @ 3.6GHz
+Intel(R) Core i3 i3-4160T @ 3.1GHz
+Intel(R) Core i3 i3-4170 @ 3.7GHz
+Intel(R) Core i3 i3-4170T @ 3.2GHz
+Intel(R) Core i3 i3-4330 @ 3.5GHz
+Intel(R) Core i3 i3-4330T @ 3GHz
+Intel(R) Core i3 i3-4330TE @ 2.4GHz
+Intel(R) Core i3 i3-4340 @ 3.6GHz
+Intel(R) Core i3 i3-4340TE @ 2.6GHz
+Intel(R) Core i3 i3-4350 @ 3.6GHz
+Intel(R) Core i3 i3-4350T @ 3.1GHz
+Intel(R) Core i3 i3-4360 @ 3.7GHz
+Intel(R) Core i3 i3-4360T @ 3.2GHz
+Intel(R) Core i3 i3-4370 @ 3.8GHz
+Intel(R) Core i3 i3-4370T @ 3.3GHz
+Intel(R) Core i3 i3-6098P @ 3.6GHz
+Intel(R) Core i3 i3-6100 @ 3.7GHz
+Intel(R) Core i3 i3-6100T @ 3.2GHz
+Intel(R) Core i3 i3-6100TE @ 2.7GHz
+Intel(R) Core i3 i3-6300 @ 3.8GHz
+Intel(R) Core i3 i3-6300T @ 3.3GHz
+Intel(R) Core i3 i3-6320 @ 3.9GHz
+Intel(R) Core i3 i3-6320T @ 3.4GHz
+Intel(R) Core i3 i3-7100 @ 3.9GHz
+Intel(R) Core i3 i3-7100T @ 3.4GHz
+Intel(R) Core i3 i3-7120 @ 4GHz
+Intel(R) Core i3 i3-7120T @ 3.5GHz
+Intel(R) Core i3 i3-7300 @ 4GHz
+Intel(R) Core i3 i3-7300T @ 3.5GHz
+Intel(R) Core i3 i3-7320 @ 4.1GHz
+Intel(R) Core i3 i3-7320T @ 3.6GHz
+Intel(R) Core i3 i3-7340 @ 4.2GHz
+Intel(R) Core i3 i3-7350K @ 4.2GHz
+Intel(R) Core i3 i3-8100 @ 3.6GHz
+Intel(R) Core i3 i3-8100F @ 3.6GHz
+Intel(R) Core i3 i3-8100T @ 3.1GHz
+Intel(R) Core i3 i3-8300 @ 3.7GHz
+Intel(R) Core i3 i3-8300T @ 3.2GHz
+Intel(R) Core i3 i3-8350K @ 4GHz
+Intel(R) Core i3 i3-9100 @ 3.6GHz
+Intel(R) Core i3 i3-9100F @ 3.6GHz
+Intel(R) Core i3 i3-9100T @ 3.1GHz
+Intel(R) Core i3 i3-9300 @ 3.7GHz
+Intel(R) Core i3 i3-9300T @ 3.2GHz
+Intel(R) Core i3 i3-9320 @ 3.7GHz
+Intel(R) Core i3 i3-9350K @ 4GHz
+Intel(R) Core i3 i3-9350KF @ 4GHz
+Intel(R) Core i3 i3-10100 @ 3.6GHz
+Intel(R) Core i3 i3-10100F @ 3.6GHz
+Intel(R) Core i3 i3-10100T @ 3GHz
+Intel(R) Core i3 i3-10105 @ 3.7GHz
+Intel(R) Core i3 i3-10105F @ 3.7GHz
+Intel(R) Core i3 i3-10105T @ 3GHz
+Intel(R) Core i3 i3-10300 @ 3.7GHz
+Intel(R) Core i3 i3-10300T @ 3GHz
+Intel(R) Core i3 i3-10305 @ 3.8GHz
+Intel(R) Core i3 i3-10305T @ 3GHz
+Intel(R) Core i3 i3-10320 @ 3.8GHz
+Intel(R) Core i3 i3-10325 @ 3.9GHz
+Intel(R) Core i5 i5-650 @ 3.2GHz
+Intel(R) Core i5 i5-655K @ 3.2GHz
+Intel(R) Core i5 i5-660 @ 3.333GHz
+Intel(R) Core i5 i5-661 @ 3.333GHz
+Intel(R) Core i5 i5-670 @ 3.467GHz
+Intel(R) Core i5 i5-680 @ 3.6GHz
+Intel(R) Core i5 i5-750 @ 2.667GHz
+Intel(R) Core i5 i5-760 @ 2.8GHz
+Intel(R) Core i5 i5-750S @ 2.4GHz
+Intel(R) Core i5 i5-2300 @ 2.8GHz
+Intel(R) Core i5 i5-2310 @ 2.9GHz
+Intel(R) Core i5 i5-2320 @ 3GHz
+Intel(R) Core i5 i5-2380P @ 3.1GHz
+Intel(R) Core i5 i5-2390T @ 2.7GHz
+Intel(R) Core i5 i5-2400 @ 3.1GHz
+Intel(R) Core i5 i5-2400S @ 2.5GHz
+Intel(R) Core i5 i5-2405S @ 2.5GHz
+Intel(R) Core i5 i5-2450P @ 3.2GHz
+Intel(R) Core i5 i5-2500 @ 3.3GHz
+Intel(R) Core i5 i5-2500K @ 3.3GHz
+Intel(R) Core i5 i5-2500S @ 2.7GHz
+Intel(R) Core i5 i5-2500T @ 2.3GHz
+Intel(R) Core i5 i5-2550K @ 3.4GHz
+Intel(R) Core i5 i5-3330 @ 3GHz
+Intel(R) Core i5 i5-3330S @ 2.7GHz
+Intel(R) Core i5 i5-3335S @ 2.7GHz
+Intel(R) Core i5 i5-3340 @ 3.1GHz
+Intel(R) Core i5 i5-3340S @ 2.8GHz
+Intel(R) Core i5 i5-3350P @ 3.1GHz
+Intel(R) Core i5 i5-3450 @ 3.1GHz
+Intel(R) Core i5 i5-3450S @ 2.8GHz
+Intel(R) Core i5 i5-3470 @ 3.2GHz
+Intel(R) Core i5 i5-3470S @ 2.9GHz
+Intel(R) Core i5 i5-3470T @ 2.9GHz
+Intel(R) Core i5 i5-3475S @ 2.9GHz
+Intel(R) Core i5 i5-3550 @ 3.3GHz
+Intel(R) Core i5 i5-3550S @ 3GHz
+Intel(R) Core i5 i5-3570 @ 3.4GHz
+Intel(R) Core i5 i5-3570K @ 3.4GHz
+Intel(R) Core i5 i5-3570S @ 3.1GHz
+Intel(R) Core i5 i5-3570T @ 2.3GHz
+Intel(R) Core i5 i5-4430 @ 3GHz
+Intel(R) Core i5 i5-4430S @ 2.7GHz
+Intel(R) Core i5 i5-4440 @ 3.1GHz
+Intel(R) Core i5 i5-4440S @ 2.8GHz
+Intel(R) Core i5 i5-4460 @ 3.2GHz
+Intel(R) Core i5 i5-4460S @ 2.9GHz
+Intel(R) Core i5 i5-4460T @ 1.9GHz
+Intel(R) Core i5 i5-4570 @ 3.2GHz
+Intel(R) Core i5 i5-4570R @ 2.7GHz
+Intel(R) Core i5 i5-4570S @ 2.9GHz
+Intel(R) Core i5 i5-4570T @ 2.9GHz
+Intel(R) Core i5 i5-4570TE @ 2.7GHz
+Intel(R) Core i5 i5-4590 @ 3.3GHz
+Intel(R) Core i5 i5-4590S @ 3GHz
+Intel(R) Core i5 i5-4590T @ 2GHz
+Intel(R) Core i5 i5-4670 @ 3.4GHz
+Intel(R) Core i5 i5-4670K @ 3.4GHz
+Intel(R) Core i5 i5-4670R @ 3GHz
+Intel(R) Core i5 i5-4670S @ 3.1GHz
+Intel(R) Core i5 i5-4670T @ 2.3GHz
+Intel(R) Core i5 i5-4690 @ 3.5GHz
+Intel(R) Core i5 i5-4690K @ 3.5GHz
+Intel(R) Core i5 i5-4690S @ 3.2GHz
+Intel(R) Core i5 i5-4690T @ 2.5GHz
+Intel(R) Core i5 i5-5575R @ 2.8GHz
+Intel(R) Core i5 i5-5675C @ 3.1GHz
+Intel(R) Core i5 i5-5675R @ 3.1GHz
+Intel(R) Core i5 i5-6400 @ 2.7GHz
+Intel(R) Core i5 i5-6400T @ 2.2GHz
+Intel(R) Core i5 i5-6402P @ 2.8GHz
+Intel(R) Core i5 i5-6500 @ 3.2GHz
+Intel(R) Core i5 i5-6500T @ 2.5GHz
+Intel(R) Core i5 i5-6500TE @ 2.3GHz
+Intel(R) Core i5 i5-6585R @ 2.8GHz
+Intel(R) Core i5 i5-6600 @ 3.3GHz
+Intel(R) Core i5 i5-6600K @ 3.5GHz
+Intel(R) Core i5 i5-6600T @ 2.7GHz
+Intel(R) Core i5 i5-6685R @ 3.2GHz
+Intel(R) Core i5 i5-7400 @ 3GHz
+Intel(R) Core i5 i5-7400T @ 2.4GHz
+Intel(R) Core i5 i5-7500 @ 3.4GHz
+Intel(R) Core i5 i5-7500T @ 2.7GHz
+Intel(R) Core i5 i5-7600 @ 3.5GHz
+Intel(R) Core i5 i5-7600K @ 3.8GHz
+Intel(R) Core i5 i5-7600T @ 2.8GHz
+Intel(R) Core i5 i5-7640X @ 4GHz
+Intel(R) Core i5 i5-8400 @ 2.8GHz
+Intel(R) Core i5 i5-8400T @ 1.7GHz
+Intel(R) Core i5 i5-8500 @ 3GHz
+Intel(R) Core i5 i5-8500T @ 2.1GHz
+Intel(R) Core i5 i5-8600 @ 3.1GHz
+Intel(R) Core i5 i5-8600K @ 3.6GHz
+Intel(R) Core i5 i5-8600T @ 2.3GHz
+Intel(R) Core i5 i5-9400 @ 2.9GHz
+Intel(R) Core i5 i5-9400F @ 2.9GHz
+Intel(R) Core i5 i5-9400T @ 1.8GHz
+Intel(R) Core i5 i5-9500 @ 3GHz
+Intel(R) Core i5 i5-9500F @ 3GHz
+Intel(R) Core i5 i5-9500T @ 2.2GHz
+Intel(R) Core i5 i5-9600 @ 3.1GHz
+Intel(R) Core i5 i5-9600K @ 3.7GHz
+Intel(R) Core i5 i5-9600KF @ 3.7GHz
+Intel(R) Core i5 i5-9600T @ 2.3GHz
+Intel(R) Core i5 i5-10400 @ 2.9GHz
+Intel(R) Core i5 i5-10400F @ 2.9GHz
+Intel(R) Core i5 i5-10400T @ 2GHz
+Intel(R) Core i5 i5-10500 @ 3.1GHz
+Intel(R) Core i5 i5-10500T @ 2.3GHz
+Intel(R) Core i5 i5-10600 @ 3.3GHz
+Intel(R) Core i5 i5-10600K @ 4.1GHz
+Intel(R) Core i5 i5-10600KF @ 4.1GHz
+Intel(R) Core i5 i5-10600T @ 2.4GHz
+Intel(R) Core i5 i5-11400 @ 2.6GHz
+Intel(R) Core i5 i5-11400F @ 2.6GHz
+Intel(R) Core i5 i5-11400T @ 1.3GHz
+Intel(R) Core i5 i5-11500 @ 2.7GHz
+Intel(R) Core i5 i5-11500T @ 1.5GHz
+Intel(R) Core i5 i5-11600 @ 2.8GHz
+Intel(R) Core i5 i5-11600K @ 3.9GHz
+Intel(R) Core i5 i5-11600KF @ 3.9GHz
+Intel(R) Core i5 i5-11600T @ 1.7GHz
+Intel(R) Core i7 i7-850 @ 2.667GHz
+Intel(R) Core i7 i7-860 @ 2.8GHz
+Intel(R) Core i7 i7-860S @ 2.533GHz
+Intel(R) Core i7 i7-870 @ 2.933GHz
+Intel(R) Core i7 i7-870S @ 2.667GHz
+Intel(R) Core i7 i7-875K @ 2.933GHz
+Intel(R) Core i7 i7-880 @ 3.067GHz
+Intel(R) Core i7 i7-920 @ 2.667GHz
+Intel(R) Core i7 i7-930 @ 2.8GHz
+Intel(R) Core i7 i7-940 @ 2.933GHz
+Intel(R) Core i7 i7-950 @ 3.067GHz
+Intel(R) Core i7 i7-960 @ 3.2GHz
+Intel(R) Core i7 Extreme Edition i7-965 @ 3.2GHz
+Intel(R) Core i7 i7-970 @ 3.2GHz
+Intel(R) Core i7 Extreme Edition i7-975 @ 3.333GHz
+Intel(R) Core i7 i7-980 @ 3.333GHz
+Intel(R) Core i7 Extreme Edition i7-980X @ 3.333GHz
+Intel(R) Core i7 Extreme Edition i7-990X @ 3.467GHz
+Intel(R) Core i7 i7-2600 @ 3.4GHz
+Intel(R) Core i7 i7-2600K @ 3.4GHz
+Intel(R) Core i7 i7-2600S @ 2.8GHz
+Intel(R) Core i7 i7-2700K @ 3.5GHz
+Intel(R) Core i7 i7-3770 @ 3.4GHz
+Intel(R) Core i7 i7-3770K @ 3.5GHz
+Intel(R) Core i7 i7-3770S @ 3.1GHz
+Intel(R) Core i7 i7-3770T @ 2.5GHz
+Intel(R) Core i7 i7-3820 @ 3.6GHz
+Intel(R) Core i7 i7-3930K @ 3.2GHz
+Intel(R) Core i7 Extreme Edition i7-3960X @ 3.3GHz
+Intel(R) Core i7 Extreme Edition i7-3970X @ 3.5GHz
+Intel(R) Core i7 i7-4765T @ 2GHz
+Intel(R) Core i7 i7-4770 @ 3.4GHz
+Intel(R) Core i7 i7-4770K @ 3.5GHz
+Intel(R) Core i7 i7-4770R @ 3.2GHz
+Intel(R) Core i7 i7-4770S @ 3.1GHz
+Intel(R) Core i7 i7-4770T @ 2.5GHz
+Intel(R) Core i7 i7-4770TE @ 2.3GHz
+Intel(R) Core i7 i7-4771 @ 3.5GHz
+Intel(R) Core i7 i7-4785T @ 2.2GHz
+Intel(R) Core i7 i7-4790 @ 3.6GHz
+Intel(R) Core i7 i7-4790K @ 4GHz
+Intel(R) Core i7 i7-4790S @ 3.2GHz
+Intel(R) Core i7 i7-4790T @ 2.7GHz
+Intel(R) Core i7 i7-4820K @ 3.7GHz
+Intel(R) Core i7 i7-4930K @ 3.4GHz
+Intel(R) Core i7 Extreme Edition i7-4960X @ 3.6GHz
+Intel(R) Core i7 i7-5775C @ 3.3GHz
+Intel(R) Core i7 i7-5775R @ 3.3GHz
+Intel(R) Core i7 i7-5820K @ 3.3GHz
+Intel(R) Core i7 i7-5930K @ 3.5GHz
+Intel(R) Core i7 Extreme Edition i7-5960X @ 3GHz
+Intel(R) Core i7 i7-6700 @ 3.4GHz
+Intel(R) Core i7 i7-6700K @ 4GHz
+Intel(R) Core i7 i7-6700T @ 2.8GHz
+Intel(R) Core i7 i7-6700TE @ 2.4GHz
+Intel(R) Core i7 i7-6785R @ 3.3GHz
+Intel(R) Core i7 i7-6800K @ 3.4GHz
+Intel(R) Core i7 i7-6850K @ 3.6GHz
+Intel(R) Core i7 i7-6900K @ 3.2GHz
+Intel(R) Core i7 Extreme Edition i7-6950X @ 3GHz
+Intel(R) Core i7 i7-7700 @ 3.6GHz
+Intel(R) Core i7 i7-7700K @ 4.2GHz
+Intel(R) Core i7 i7-7700T @ 2.9GHz
+Intel(R) Core i7 i7-7740X @ 4.3GHz
+Intel(R) Core i7 i7-7800X @ 3.5GHz
+Intel(R) Core i7 i7-7820X @ 3.6GHz
+Intel(R) Core i7 i7-8086K @ 4GHz
+Intel(R) Core i7 i7-8700 @ 3.2GHz
+Intel(R) Core i7 i7-8700K @ 3.7GHz
+Intel(R) Core i7 i7-8700T @ 2.4GHz
+Intel(R) Core i7 i7-9700 @ 3GHz
+Intel(R) Core i7 i7-9700F @ 3GHz
+Intel(R) Core i7 i7-9700K @ 3.6GHz
+Intel(R) Core i7 i7-9700KF @ 3.6GHz
+Intel(R) Core i7 i7-9700T @ 2GHz
+Intel(R) Core i7 i7-9800X @ 3.8GHz
+Intel(R) Core i7 i7-10700 @ 2.9GHz
+Intel(R) Core i7 i7-10700F @ 2.9GHz
+Intel(R) Core i7 i7-10700K @ 3.8GHz
+Intel(R) Core i7 i7-10700KF @ 3.8GHz
+Intel(R) Core i7 i7-10700T @ 2GHz
+Intel(R) Core i7 i7-11700 @ 2.5GHz
+Intel(R) Core i7 i7-11700F @ 2.5GHz
+Intel(R) Core i7 i7-11700K @ 3.6GHz
+Intel(R) Core i7 i7-11700KF @ 3.6GHz
+Intel(R) Core i7 i7-11700T @ 1.4GHz
+Intel(R) Core i9 i9-7900X @ 3.3GHz
+Intel(R) Core i9 i9-7920X @ 2.9GHz
+Intel(R) Core i9 i9-7940X @ 3.1GHz
+Intel(R) Core i9 i9-7960X @ 2.8GHz
+Intel(R) Core i9 Extreme Edition i9-7980XE @ 2.6GHz
+Intel(R) Core i9 i9-9820X @ 3.3GHz
+Intel(R) Core i9 i9-9900 @ 3.1GHz
+Intel(R) Core i9 i9-9900K @ 3.6GHz
+Intel(R) Core i9 i9-9900KF @ 3.6GHz
+Intel(R) Core i9 i9-9900KS @ 4GHz
+Intel(R) Core i9 i9-9900T @ 2.1GHz
+Intel(R) Core i9 i9-9900X @ 3.5GHz
+Intel(R) Core i9 i9-9920X @ 3.5GHz
+Intel(R) Core i9 i9-9940X @ 3.3GHz
+Intel(R) Core i9 i9-9960X @ 3.1GHz
+Intel(R) Core i9 Extreme Edition i9-9980XE @ 3GHz
+Intel(R) Core i9 Extreme Edition i9-9990XE @ 4GHz
+Intel(R) Core i9 i9-10850K @ 3.6GHz
+Intel(R) Core i9 i9-10900 @ 2.8GHz
+Intel(R) Core i9 i9-10900F @ 2.8GHz
+Intel(R) Core i9 i9-10900K @ 3.7GHz
+Intel(R) Core i9 i9-10900KF @ 3.7GHz
+Intel(R) Core i9 i9-10900T @ 1.9GHz
+Intel(R) Core i9 i9-10900X @ 3.7GHz
+Intel(R) Core i9 i9-10920X @ 3.5GHz
+Intel(R) Core i9 i9-10940X @ 3.3GHz
+Intel(R) Core i9 Extreme Edition i9-10980XE @ 3GHz
+Intel(R) Core i9 i9-11900 @ 2.5GHz
+Intel(R) Core i9 i9-11900F @ 2.5GHz
+Intel(R) Core i9 i9-11900K @ 3.5GHz
+Intel(R) Core i9 i9-11900KF @ 3.5GHz
+Intel(R) Core i9 i9-11900T @ 1.5GHz
+Intel(R) Core 2 Quad Q6400 @ 2.133GHz
+Intel(R) Core 2 Quad Q6600 @ 2.4GHz
+Intel(R) Core 2 Quad Q6700 @ 2.667GHz
+Intel(R) Core 2 Quad Q8200 @ 2.333GHz
+Intel(R) Core 2 Quad Q8200S @ 2.333GHz
+Intel(R) Core 2 Quad Q8300 @ 2.5GHz
+Intel(R) Core 2 Quad Q8400 @ 2.667GHz
+Intel(R) Core 2 Quad Q8400S @ 2.667GHz
+Intel(R) Core 2 Quad Q9250 @ 2.333GHz
+Intel(R) Core 2 Quad Q9300 @ 2.5GHz
+Intel(R) Core 2 Quad Q9400 @ 2.667GHz
+Intel(R) Core 2 Quad Q9400S @ 2.667GHz
+Intel(R) Core 2 Quad Q9450 @ 2.667GHz
+Intel(R) Core 2 Quad Q9450S @ 2.667GHz
+Intel(R) Core 2 Quad Q9500 @ 2.833GHz
+Intel(R) Core 2 Quad Q9505 @ 2.833GHz
+Intel(R) Core 2 Quad Q9505S @ 2.833GHz
+Intel(R) Core 2 Quad Q9550 @ 2.833GHz
+Intel(R) Core 2 Quad Q9550S @ 2.833GHz
+Intel(R) Core 2 Quad Q9650 @ 3GHz
+Intel(R) Core 2 Quad Q9700 @ 3.167GHz
+Intel(R) Core 2 Quad Q9705 @ 3.167GHz
+Intel(R) Core 2 Extreme QX6700 @ 2.667GHz
+Intel(R) Core 2 Extreme QX6800 @ 2.933GHz
+Intel(R) Core 2 Extreme QX6850 @ 3GHz
+Intel(R) Core 2 Extreme QX9650 @ 3GHz
+Intel(R) Core 2 Extreme QX9770 @ 3.2GHz
+Intel(R) Core 2 Extreme QX9775 @ 3.2GHz
+Intel(R) Core 2 Extreme X6800 @ 2.933GHz
