@@ -62,6 +62,13 @@ for _ in range(ITER_COUNT):
     DownloadedVm.replace_vm(field, new_field)
     logger.info(f"\n{field} ↓ \n{new_field}")
 
+    # extendedConfigFile
+    field_name = "extendedConfigFile ="
+    field = find_field(field_name)
+    new_field = f'{field_name} "{CREATED_VM_NAME}.vmxf"'
+    DownloadedVm.replace_vm(field, new_field)
+    logger.info(f"\n{field} ↓ \n{new_field}")
+
     # scsi0:0.productID
     field_name = "scsi0:0.productID ="
     field = find_field(field_name)
@@ -109,6 +116,9 @@ for _ in range(ITER_COUNT):
     new_field = f'{field_name} "{rand_hdd_serial_hex_12}"'
     DownloadedVm.replace_vm(field, new_field)
     logger.info(f"\n{field} ↓ \n{new_field}")
+
+
+
 
     # ethernet1.address
     field_name = "ethernet1.address ="
