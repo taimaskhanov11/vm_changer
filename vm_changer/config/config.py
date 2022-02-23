@@ -32,7 +32,7 @@ PROCESSORS = get_data_list("../Processors.txt")
 SSD = get_data_list("../SSD.txt")
 WINDOWS_PATH = CONFIG["windows_path"]
 ITER_COUNT = CONFIG["iter_count"]
-
+MAC_TYPE = CONFIG["mac_generation_type"]
 
 class DownloadedVm:
     """DOWNLOADED_VM"""

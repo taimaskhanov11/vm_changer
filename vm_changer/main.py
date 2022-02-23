@@ -4,8 +4,10 @@ import random
 import sys
 
 from loguru import logger
+from randmac import RandMac
 
-from vm_changer.config.config import CONFIG, DownloadedVm, CREATED_VM_NAME, PROCESSORS, SSD, WINDOWS_PATH, ITER_COUNT
+from vm_changer.config.config import CONFIG, DownloadedVm, CREATED_VM_NAME, PROCESSORS, SSD, WINDOWS_PATH, ITER_COUNT, \
+    MAC_TYPE
 from vm_changer.utils.utils import find_field, save_vm
 
 logger.remove()
@@ -101,7 +103,7 @@ for _ in range(ITER_COUNT):
     DownloadedVm.replace_vm(field, new_field)
     logger.info(f"\n{field} ↓ \n{new_field}")
 
-    # uuid_bios
+    # uuid.location
     field_name = "uuid.location ="
     field = find_field(field_name)
     new_field = f'{field_name} "{uuid_bios}"'
@@ -117,13 +119,22 @@ for _ in range(ITER_COUNT):
     DownloadedVm.replace_vm(field, new_field)
     logger.info(f"\n{field} ↓ \n{new_field}")
 
-
-
-
     # ethernet1.address
     field_name = "ethernet1.address ="
     field = find_field(field_name)
-    random_ethernet_address_hex_6 = binascii.hexlify(os.urandom(6), ":").decode().upper()
+
+    match MAC_TYPE:
+        case 1:
+            random_ethernet_address_hex_6 = binascii.hexlify(os.urandom(6), ":").decode().upper()
+        case 2:
+            random_ethernet_address_hex_6 = RandMac("00:00:00:00:00:00", True).mac.upper()
+        case 3:
+            random_ethernet_address_hex_6 = RandMac("00:00:00:00:00:00").mac.upper()
+        case 4:
+            random_ethernet_address_hex_6 = f"02:00:00:{random.randint(0, 255):02X}:" \
+                                            f"{random.randint(0, 255):02X}:" \
+                                            f"{random.randint(0, 255):02X}"
+
     new_field = f'{field_name} "{random_ethernet_address_hex_6}"'
     DownloadedVm.replace_vm(field, new_field)
     logger.info(f"\n{field} ↓ \n{new_field}")

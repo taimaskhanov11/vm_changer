@@ -8,6 +8,7 @@ authors = ["taimaskhanov11 <81189712+taimaskhanov11@users.noreply.github.com>"]
 python = "^3.10"
 PyYAML = "^6.0"
 loguru = "^0.6.0"
+randmac = "^0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
