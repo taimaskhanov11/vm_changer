@@ -25,7 +25,11 @@ def get_vm_data(path):
 
 CONFIG = get_config_data("../config.yaml")
 # CREATED_VM_PATH = CONFIG["created_vm"]
+RANDOM_VM_NAME = CONFIG["random_vm_name"]
+RANDOM_VM_NAME_LENGTH = CONFIG["random_vm_name_length"]
+RANDOM_VM_NAME_LOWERCASE_ONLY = CONFIG["random_vm_name_lowercase_only"]
 CREATED_VM_NAME = CONFIG["created_vm_name"]
+
 DOWNLOADED_VM_PATH = CONFIG["downloaded_vm"]
 SAVED_VM_PATH = CONFIG["saved_vm"]
 PROCESSORS = get_data_list("../Processors.txt")
@@ -33,6 +37,9 @@ SSD = get_data_list("../SSD.txt")
 WINDOWS_PATH = CONFIG["windows_path"]
 ITER_COUNT = CONFIG["iter_count"]
 MAC_TYPE = CONFIG["mac_generation_type"]
+
+EVEN_INTEGER_FIRST_TWO_DIGITS = CONFIG["even_integer_first_two_digits"]
+
 
 class DownloadedVm:
     """DOWNLOADED_VM"""

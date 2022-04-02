@@ -1,9 +1,30 @@
-
 # ****************************** Main settings ***************************************************
 #_____________________________________________________________________________________________________________
 
 # Название созданного VM
 created_vm_name: my_created
+
+# Сгенерировать рандомный vm_name true/false
+random_vm_name: false
+
+# длина рандомного vm_name
+random_vm_name_length: 12
+
+# только строчные буквы для рандомного vm_name
+random_vm_name_lowercase_only: false
+
+#_____________________________________________________________________________________________________________
+
+# Количество итераций
+iter_count: 1
+
+# 1, 2, 3, 4
+mac_generation_type: 1
+
+# for 1 type. Четные цифры для первого типа(1 и 2 цифра) true/false
+even_integer_first_two_digits: true
+
+#_____________________________________________________________________________________________________________
 
 # Скачанный VM file
 downloaded_vm: C:\Users\taima\PycharmProjects\vm_changer\temp\downloaded\modifiedVMX.vmx
@@ -11,11 +32,6 @@ downloaded_vm: C:\Users\taima\PycharmProjects\vm_changer\temp\downloaded\modifie
 # Папка для сохранения измененного VM file
 saved_vm: C:\Users\taima\PycharmProjects\vm_changer\temp\saved
 
-# Количество итераций
-iter_count: 3
-
-# 1, 2, 3, 4
-mac_generation_type: 1
 #_____________________________________________________________________________________________________________
 
 # ****************************** Add settings ******************************************

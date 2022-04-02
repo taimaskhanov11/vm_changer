@@ -7,8 +7,8 @@ from loguru import logger
 from randmac import RandMac
 
 from vm_changer.config.config import CONFIG, DownloadedVm, CREATED_VM_NAME, PROCESSORS, SSD, WINDOWS_PATH, ITER_COUNT, \
-    MAC_TYPE
-from vm_changer.utils.utils import find_field, save_vm
+    MAC_TYPE, EVEN_INTEGER_FIRST_TWO_DIGITS, RANDOM_VM_NAME
+from vm_changer.utils.utils import find_field, save_vm, get_even_integer as gei, get_random_vm_name
 
 logger.remove()
 logger.add(
@@ -28,7 +28,8 @@ logger.add(
 
 for _ in range(ITER_COUNT):
     logger.warning("\n\nНовая итерация")
-
+    if RANDOM_VM_NAME:
+        CREATED_VM_NAME = get_random_vm_name()
     # scsi0:0.fileName
     field_name = "scsi0:0.fileName ="
     field = find_field(field_name)
@@ -125,7 +126,10 @@ for _ in range(ITER_COUNT):
 
     match MAC_TYPE:
         case 1:
-            random_ethernet_address_hex_6 = binascii.hexlify(os.urandom(6), ":").decode().upper()
+            if EVEN_INTEGER_FIRST_TWO_DIGITS:
+                random_ethernet_address_hex_6 = f'{gei()}:{gei()}:{binascii.hexlify(os.urandom(4), ":").decode().upper()}'
+            else:
+                random_ethernet_address_hex_6 = binascii.hexlify(os.urandom(6), ":").decode().upper()
         case 2:
             random_ethernet_address_hex_6 = RandMac("00:00:00:00:00:00", True).mac.upper()
         case 3:
